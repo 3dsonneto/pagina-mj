@@ -34,3 +34,24 @@ h1 {
     overflow: auto;
     padding: 36px 20px 36px 20px;
 }
+
+.album-bar {
+    background-color: black;
+}
+
+figure {
+    display: inline-block;
+    margin: 20px 10px;
+}
+
+figcaption {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: -10px;
+}
